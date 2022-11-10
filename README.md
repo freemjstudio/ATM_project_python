@@ -13,10 +13,12 @@ ATM Project - Minjee Woo
 <img width="507" alt="스크린샷 2022-11-10 오후 4 38 48" src="https://user-images.githubusercontent.com/41604678/201028896-f10c3898-ceeb-47db-860a-71dd5fc747e7.png">
 
 User can use the function if they enter the correct account number and PIN number. 
-If the system authenticates the user information, then the user will see Main View. 
-User can check the balance, deposit and withdraw on this state. 
 
 [Main View]
+
+- If the system authenticates the user information, then the user will see Main View. 
+
+- User can check the balance, deposit and withdraw on this state. 
 
 <img width="348" alt="스크린샷 2022-11-10 오후 4 39 35" src="https://user-images.githubusercontent.com/41604678/201029031-fee70cd8-0dc9-4727-aa4d-41df69e36021.png">
 
