@@ -53,9 +53,28 @@ def check_vaild_account(user_account):
             return account_object
     return None
 
+def read_data():
+    try:
+        file = open("data.txt", 'w+')
+        while True:
+            line = file.readline()
+            if not line:
+                break
+        account_number, name, balance, password = line.split()
+        account_object_list.append(Account(account_number, name, balance, password))
+        file.close()
+    except Exception as error:
+        print("[Error] There's no data.txt file. ")
+        print(error)
+
+def write_data():
+    file = open("data.txt", 'w+')
+
+def update_data():
+    file = open("data.txt", 'w+')
 
 def default_view():
-    
+
     while True:
         print("--------------- ATM Service ---------------")
         print(" 1. Enter Account")  # 계좌번호 입력하기
