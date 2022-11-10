@@ -10,6 +10,9 @@ ATM Project - Minjee Woo
 - You can use sample user data to check how the program is running. 
 
 1.Account Number : 678-433718-11804
+
 2.Name : 곰돌이 
-3.mail : mjwoo0@naver.com
+
+3.email : mjwoo0@naver.com
+
 4.PIN : 1111 
