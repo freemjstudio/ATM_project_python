@@ -3,8 +3,18 @@ ATM Project - Minjee Woo
 
 
 1. Download the Repository 
-2. Check if 'data.txt' and 'main.py' are in the same directory. 
-3. Run the python file 'main.py'
+2. Go to the Repository folder that you downloaded on your local and go them go to 'ATM' directory on terminal/cmd
+3. 'data.txt' file and 'main.py' should be in the same directory. 
+4. Run the python file 'main.py' 
+
+python3 main.py
+
+or 
+
+python main.py
+
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/41604678/201030461-eae7baec-fc57-47c5-bade-a2567c371b6f.png">
+
 
 # ATM Program
 
