@@ -22,6 +22,8 @@ User can use the function if they enter the correct account number and PIN numbe
 
 <img width="348" alt="스크린샷 2022-11-10 오후 4 39 35" src="https://user-images.githubusercontent.com/41604678/201029031-fee70cd8-0dc9-4727-aa4d-41df69e36021.png">
 
+User account data is saved on 'data.txt' text file. 
+
 # Sample User Account 
 - You can use sample user data to check how the program is running. 
 
